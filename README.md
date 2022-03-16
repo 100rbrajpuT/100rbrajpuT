@@ -9,7 +9,7 @@ Currently, I am learning to become a full stack web developer, with a specializa
 Other than coding, I like reading, watching movies, and sketching.
 
 
-<!--
+
 **100rbrajpuT/100rbrajpuT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: singhsaurabh9451985554@gmail.com
 - 😄 Pronouns: Saurabh
 - ⚡ Fun fact: ...
--->
