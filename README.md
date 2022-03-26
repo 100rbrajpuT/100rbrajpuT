@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **singhsaurabh9451985554@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sCEMl80dCDgTBJVABnO_ch4Yzxjt3AgG/view?usp=sharing](https://drive.google.com/file/d/1sCEMl80dCDgTBJVABnO_ch4Yzxjt3AgG/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1sCEMl80dCDgTBJVABnO_ch4Yzxjt3AgG/view?usp=sharing)
 
 - ⚡ Fun fact **I like mysterious things**
 
