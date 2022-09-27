@@ -25,9 +25,9 @@ Here are some ideas to get you started:
  --><h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">The field of technology is fascinating, as well as growing at a rapid speed. I witnessed my friends be a part of this field and enjoy their work, where they had something new to do everyday. Hence, I completed my B.Tech in computer science and engineering, and have been fascinated with the field of technology. After completing my B.Tech, I realized that I wanted to up-scale my skills and learn more about the field of technology. After much research, I came across Masai school. I became interested in their courses and decided to join immediately. Currently, I am learning to become a full stack web developer, with a specialization in MERN stack. However, after completing numerous projects at Masai school, I have gained expertise in HTML, CSS, JavaScript, Express.js,MongoDB,Mongoose,REST api & React.js. Other than coding, I like reading, watching movies, and sketching.</h3>
 
-- 🔭 I’m currently working on **React & DSA**
+- 🔭 I’m currently working on **MERN Stack & DSA**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Enhancing MERN Concept while working on projects **
 
 - 📫 How to reach me **singhsaurabh9451985554@gmail.com**
 
