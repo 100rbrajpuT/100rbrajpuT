@@ -1,4 +1,6 @@
 <!-- ### Hi This is Saurabh 👋
+<img src="https://raw.githubusercontent.com/mohammad-atique/mohammad-atique/main/coding.gif" alt="webpack" width="40" height="40"/> 
+
 
 The field of technology is fascinating, as well as growing at a rapid speed. I witnessed my friends be a part of this field and enjoy their work, where they had something new to do everyday. Hence, I completed my B.Tech in computer science and engineering, and have been fascinated with the field of technology.
 
