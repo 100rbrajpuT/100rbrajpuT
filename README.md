@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singhsaurabh9451985554@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a2uiaJ9xbo_8WkJl6oxQllpv5CUJsc_O/view?usp=sharing](https://drive.google.com/file/d/1a2uiaJ9xbo_8WkJl6oxQllpv5CUJsc_O/view?usp=sharing)
+- 📄 Know about my experiences(Resume) [https://drive.google.com/file/d/1a2uiaJ9xbo_8WkJl6oxQllpv5CUJsc_O/view?usp=sharing](https://drive.google.com/file/d/1a2uiaJ9xbo_8WkJl6oxQllpv5CUJsc_O/view?usp=sharing)
 
 - ⚡ Fun fact **I like mysterious things**
 
