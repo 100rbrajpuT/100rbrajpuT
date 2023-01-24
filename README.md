@@ -26,30 +26,7 @@
 <a href="https://medium.com/@singhsaurabh9451985554" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@singhsaurabh9451985554" height="30" width="40" /></a>
   
   
-  <br><hr>
-  <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
-
-### <div align="center">I'm Saurabh, a  full-stack  developer 👨‍💻 trainee, currently working as trainee at Masai School  since OCT 2021 🚀</div>  
-  
-
-- 🔭 I’m currently working on MERN Stack and DSA.  
-  
-
-- 🌱 I’m currently learning animations.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I love thrilling Stories  
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
