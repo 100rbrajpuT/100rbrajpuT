@@ -35,5 +35,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=100rbrajput&show_icons=true&locale=en&layout=compact" alt="100rbrajput" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=100rbrajput&show_icons=true&locale=en" alt="100rbrajput" /></p>
+</br></br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=100rbrajput&" alt="100rbrajput" /></p>
