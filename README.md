@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack .**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://saurabh-kumar-singh-portfolioss.netlify.app/](https://saurabh-kumar-singh-portfolioss.netlify.app/)
 
