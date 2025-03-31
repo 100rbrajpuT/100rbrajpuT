@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/100rb_rajput" target="blank"><img src="https://img.shields.io/twitter/follow/100rb_rajput?logo=twitter&style=for-the-badge" alt="100rb_rajput" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Stack .**
+- 🔭 I’m currently working on **SAP ABAP .**
 
 - 🌱 I’m currently learning **Next.js also SAP ABAP** 
 
